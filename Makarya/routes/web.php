@@ -14,5 +14,10 @@ Route::view('profile', 'profile')
 
 Route::get('/a', function(){
     return view('index');
-});
+})->name('index');
+
+Route::get('/blog', function () {
+    return view('blog');
+})->name('blog');
+
 require __DIR__.'/auth.php';

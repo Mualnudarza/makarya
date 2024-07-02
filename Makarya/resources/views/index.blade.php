@@ -59,7 +59,7 @@
     <div class="branding d-flex align-items-cente">
 
       <div class="container position-relative d-flex align-items-center justify-content-between">
-        <a href="index.html" class="logo d-flex align-items-center">
+        <a href="{{ route('index') }}" class="logo d-flex align-items-center">
           <!-- Uncomment the line below if you also wish to use an image logo -->
           <!-- <img src="assets/img/logo.png" alt=""> -->
           <h1 class="sitename">Makarya</h1>
@@ -73,7 +73,7 @@
             <li><a href="#services">Layanan</a></li>
             <li><a href="#portfolio">Portfolio</a></li>
             <li><a href="#team">Team</a></li>
-            <li><a href="blog.html">Blog</a></li>
+            <li><a href="{{ route('blog') }}">Blog</a></li>
             <li class="dropdown"><a href="#"><span>Karya</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
               <ul>
                 <li><a href="#">Dropdown 1</a></li>
@@ -130,28 +130,28 @@
 
             <div class="col-xl-3 col-md-6">
               <div class="icon-box">
-                <div class="icon"><i class="bi bi-easel"></i></div>
+                <div class="icon"><i class="bi bi-phone-fill"></i></div>
                 <h4 class="title"><a href="" class="stretched-link">Program Mobile</a></h4>
               </div>
             </div><!--End Icon Box -->
 
             <div class="col-xl-3 col-md-6">
               <div class="icon-box">
-                <div class="icon"><i class="bi bi-gem"></i></div>
+                <div class="icon"><i class="bi bi-browser-edge"></i></div>
                 <h4 class="title"><a href="" class="stretched-link">Program Web</a></h4>
               </div>
             </div><!--End Icon Box -->
 
             <div class="col-xl-3 col-md-6">
               <div class="icon-box">
-                <div class="icon"><i class="bi bi-geo-alt"></i></div>
+                <div class="icon"><i class="bi bi-palette-fill"></i></div>
                 <h4 class="title"><a href="" class="stretched-link">Desain Grafis</a></h4>
               </div>
             </div><!--End Icon Box -->
 
             <div class="col-xl-3 col-md-6">
               <div class="icon-box">
-                <div class="icon"><i class="bi bi-command"></i></div>
+                <div class="icon"><i class="bi bi-file-earmark-code-fill"></i></div>
                 <h4 class="title"><a href="" class="stretched-link">Penelitian</a></h4>
               </div>
             </div><!--End Icon Box -->
@@ -167,33 +167,31 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>About Us<br></h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Deskripsi Singkat<br></h2>
+        <p>Makarya adalah sebuah sistem informasi solusi inovatif yang mengimplementasikan teknologi informasi terbaru untuk mengelola pameran karya mahasiswa secara efektif, meningkatkan interaktivitas pengguna, serta mempromosikan prestasi mahasiswa dengan memberikan informasi lengkap dan platform untuk interaksi langsung antara pengunjung dan pemilik karya.</p>
       </div><!-- End Section Title -->
 
       <div class="container">
 
         <div class="row gy-4">
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <h3>Voluptatem dignissimos provident laboris nisi ut aliquip ex ea commodo</h3>
+            <h3>Menampung hampir semua karya mahasiswa di STIKI Malang</h3>
             <img src="assets/img/about.jpg" class="img-fluid rounded-4 mb-4" alt="">
-            <p>Ut fugiat ut sunt quia veniam. Voluptate perferendis perspiciatis quod nisi et. Placeat debitis quia recusandae odit et consequatur voluptatem. Dignissimos pariatur consectetur fugiat voluptas ea.</p>
-            <p>Temporibus nihil enim deserunt sed ea. Provident sit expedita aut cupiditate nihil vitae quo officia vel. Blanditiis eligendi possimus et in cum. Quidem eos ut sint rem veniam qui. Ut ut repellendus nobis tempore doloribus debitis explicabo similique sit. Accusantium sed ut omnis beatae neque deleniti repellendus.</p>
+            <p class="paragraph-justify">Sistem ini dirancang untuk mengelola dan memamerkan berbagai jenis proyek, tugas, dan penelitian yang dihasilkan oleh mahasiswa, memastikan bahwa setiap karya mendapatkan eksposur yang layak, memperkaya pengalaman belajar, meningkatkan apresiasi dan partisipasi, serta memberikan akses mudah dan komprehensif terhadap informasi karya-karya tersebut</p>
+            <p class="paragraph-justify">Sistem yang menampung hampir semua karya mahasiswa di STIKI Malang dibutuhkan untuk memperkaya pengalaman belajar mahasiswa dengan memberikan akses luas terhadap informasi proyek, tugas, dan penelitian sesama mahasiswa. Ini juga meningkatkan apresiasi dan partisipasi, serta memfasilitasi pengembangan keterampilan presentasi dan komunikasi mereka untuk persiapan karier.</p>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">
             <div class="content ps-0 ps-lg-5">
               <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
+                Makarya menawarkan berbagai keuntungan yang dapat membantu mahasiswa dan pihak luar, seperti:
               </p>
               <ul>
-                <li><i class="bi bi-check-circle-fill"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                <li><i class="bi bi-check-circle-fill"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                <li><i class="bi bi-check-circle-fill"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
-              </ul>
-              <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+                <li><i class="bi bi-check-circle-fill"></i> <span>Memberikan akses luas terhadap berbagai jenis karya mahasiswa.</span></li>
+                <li><i class="bi bi-check-circle-fill"></i> <span>Memungkinkan pengakuan yang lebih baik terhadap prestasi mahasiswa baik dari dalam maupun luar institusi.</span></li>
+                <li><i class="bi bi-check-circle-fill"></i> <span>Memfasilitasi pengembangan keterampilan presentasi dan komunikasi mahasiswa melalui eksposur yang lebih baik terhadap karya mereka.</span></li>
+         
+              <p class="paragraph-justify">
+                Berdasarkan beberapa kelebihan yang telah disebutkan di atas, sistem informasi ini menawarkan berbagai manfaat bagi mahasiswa. Selain mengunggah dan memamerkan karya mereka, mahasiswa juga dapat berkolaborasi dan berinteraksi satu sama lain.
               </p>
 
               <div class="position-relative mt-4">
@@ -1120,7 +1118,7 @@
     <div class="container footer-top">
       <div class="row gy-4">
         <div class="col-lg-5 col-md-12 footer-about">
-          <a href="index.html" class="logo d-flex align-items-center">
+          <a href="{{ route('index') }}" class="logo d-flex align-items-center">
             <span class="sitename">Impact</span>
           </a>
           <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
