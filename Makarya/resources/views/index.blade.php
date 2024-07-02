@@ -263,7 +263,11 @@
 
     <!-- Stats Section -->
     <section id="stats" class="stats section">
-
+        
+        <div class="container section-title" data-aos="fade-up">
+            <h2>Statistik<br></h2>
+            <p>Informasi ini bermanfaat untuk mengevaluasi kinerja layanan Makarya dan meningkatkan kualitas layanan di masa depan. Makarya akan terus berinovasi dan mengembangkan fitur baru untuk memenuhi kebutuhan pengguna yang terus berkembang.</p>
+          </div><!-- End Section Title -->
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
         <div class="row gy-4 align-items-center">
@@ -280,8 +284,8 @@
                 <div class="stats-item d-flex">
                   <i class="bi bi-emoji-smile flex-shrink-0"></i>
                   <div>
-                    <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Happy Clients</strong> <span>consequuntur quae</span></p>
+                    <span data-purecounter-start="0" data-purecounter-end="2252" data-purecounter-duration="1" class="purecounter"></span>
+                    <p><strong>Pengunjung</strong> <span>sistem informasi makarya</span></p>
                   </div>
                 </div>
               </div><!-- End Stats Item -->
@@ -291,7 +295,7 @@
                   <i class="bi bi-journal-richtext flex-shrink-0"></i>
                   <div>
                     <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Projects</strong> <span>adipisci atque cum quia aut</span></p>
+                    <p><strong>Kategori Karya</strong> <span>sistem informasi makarya</span></p>
                   </div>
                 </div>
               </div><!-- End Stats Item -->
@@ -301,7 +305,7 @@
                   <i class="bi bi-headset flex-shrink-0"></i>
                   <div>
                     <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Hours Of Support</strong> <span>aut commodi quaerat</span></p>
+                    <p><strong>Total Karya </strong> <span>sistem informasi makarya</span></p>
                   </div>
                 </div>
               </div><!-- End Stats Item -->
@@ -310,8 +314,8 @@
                 <div class="stats-item d-flex">
                   <i class="bi bi-people flex-shrink-0"></i>
                   <div>
-                    <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Hard Workers</strong> <span>rerum asperiores dolor</span></p>
+                    <span data-purecounter-start="0" data-purecounter-end="432" data-purecounter-duration="1" class="purecounter"></span>
+                    <p><strong>Pengguna </strong> <span>sistem informasi makarya</span></p>
                   </div>
                 </div>
               </div><!-- End Stats Item -->
@@ -335,9 +339,9 @@
           <div class="col-xl-10">
             <div class="text-center">
               <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
-              <h3>Call To Action</h3>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              <a class="cta-btn" href="#">Call To Action</a>
+              <h3>Tertarik Bergabung ?</h3>
+              <p>Setelah melihat deskripsi singkat dan statistik pengunjung Makarya, kami harap Anda memperoleh pemahaman yang lebih baik tentang layanan ini dan tergerak untuk bergabung dengan kami dalam berbagi informasi dan berkolaborasi.</p>
+              <a class="cta-btn" href="#">Gabung Sekarang</a>
             </div>
           </div>
         </div>
@@ -350,8 +354,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Our Services</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>layanan Kami</h2>
+        <p>Sistem informasi ini menyediakan beberapa layanan, antara lain</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -363,8 +367,8 @@
               <div class="icon">
                 <i class="bi bi-activity"></i>
               </div>
-              <h3>Nesciunt Mete</h3>
-              <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
+              <h3>Pameran Karya</h3>
+              <p>Sistem ini menyediakan platform untuk mengelola dan memamerkan karya mahasiswa secara efisien. Ini mencakup penyimpanan informasi detail tentang setiap karya, seperti judul, deskripsi, foto, dan opsi video, sehingga memudahkan pengunjung untuk mengeksplorasi dan memahami karya secara lebih mendalam.</p>
               <a href="service-details.html" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
@@ -374,8 +378,8 @@
               <div class="icon">
                 <i class="bi bi-broadcast"></i>
               </div>
-              <h3>Eosle Commodi</h3>
-              <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
+              <h3>Interaktivitas Pengguna</h3>
+              <p>Sistem yang dirancang untuk meningkatkan interaksi antara pengunjung dan pemilik karya. Melalui fitur interaktif, pengunjung dapat memberikan tanggapan langsung atau bertanya kepada pencipta karya, menciptakan pengalaman pameran yang lebih berarti dan interaktif.</p>
               <a href="service-details.html" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
@@ -385,8 +389,8 @@
               <div class="icon">
                 <i class="bi bi-easel"></i>
               </div>
-              <h3>Ledo Markt</h3>
-              <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
+              <h3>Exposure Mahasiswa</h3>
+              <p>Sistem Makarya juga menyediakan alat untuk promosi karya mahasiswa secara efektif. Ini termasuk penggunaan platform digital untuk menjangkau audiens yang lebih luas, serta menyediakan informasi yang komprehensif dan menarik tentang pameran kepada masyarakat luas.</p>
               <a href="service-details.html" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
@@ -396,7 +400,7 @@
               <div class="icon">
                 <i class="bi bi-bounding-box-circles"></i>
               </div>
-              <h3>Asperiores Commodit</h3>
+              <h3>Transparansi dan Informasi Lengkap</h3>
               <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
               <a href="service-details.html" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
             </div>
