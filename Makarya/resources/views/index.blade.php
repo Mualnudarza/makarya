@@ -44,8 +44,8 @@
     <div class="topbar d-flex align-items-center">
       <div class="container d-flex justify-content-center justify-content-md-between">
         <div class="contact-info d-flex align-items-center">
-          <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">contact@example.com</a></i>
-          <i class="bi bi-phone d-flex align-items-center ms-4"><span>+1 5589 55488 55</span></i>
+          <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:darwanzaalif@gmail.com">darwanzaalif@gmail.com</a></i>
+          <i class="bi bi-phone d-flex align-items-center ms-4"><a href="https://api.whatsapp.com/send/?phone=6285806040891&text&type=phone_number&app_absent=0"><span>+62 85806040891</span></a></i>
         </div>
         <div class="social-links d-none d-md-flex align-items-center">
           <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
@@ -62,15 +62,15 @@
         <a href="index.html" class="logo d-flex align-items-center">
           <!-- Uncomment the line below if you also wish to use an image logo -->
           <!-- <img src="assets/img/logo.png" alt=""> -->
-          <h1 class="sitename">Impact</h1>
+          <h1 class="sitename">Makarya</h1>
           <span>.</span>
         </a>
 
         <nav id="navmenu" class="navmenu">
           <ul>
-            <li><a href="#hero" class="active">Home<br></a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#services">Services</a></li>
+            <li><a href="#hero" class="active">Beranda<br></a></li>
+            <li><a href="#about">Tentang</a></li>
+            <li><a href="#services">Layanan</a></li>
             <li><a href="#portfolio">Portfolio</a></li>
             <li><a href="#team">Team</a></li>
             <li><a href="blog.html">Blog</a></li>
@@ -92,6 +92,7 @@
               </ul>
             </li>
             <li><a href="#contact">Contact</a></li>
+            <li><a href="#Link">Login</a></li>
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
@@ -110,15 +111,15 @@
       <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
         <div class="row gy-5 justify-content-between">
           <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-            <h2><span>Welcome to </span><span class="accent">Impact</span></h2>
-            <p>Sed autem laudantium dolores. Voluptatem itaque ea consequatur eveniet. Eum quas beatae cumque eum quaerat.</p>
+            <h2><span>Selamat Datang di </span><span class="accent">Makarya</span></h2>
+            <p>Sistem Informasi ini menampung hampir semua karya mahasiswa yang dapat menjadi referensi bagi kalian, bahkan memungkinkan kalian untuk berkolaborasi dengan mereka.</p>
             <div class="d-flex">
-              <a href="#about" class="btn-get-started">Get Started</a>
+              <a href="#about" class="btn-get-started">Daftar Sekarang</a>
               <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
             </div>
           </div>
           <div class="col-lg-5 order-1 order-lg-2">
-            <img src="assets/img/hero-img.svg" class="img-fluid" alt="">
+            <img style="width: 10cm; height: 10cm" src="assets/img/hero-img.svg" class="img-fluid" alt="">
           </div>
         </div>
       </div>
@@ -130,28 +131,28 @@
             <div class="col-xl-3 col-md-6">
               <div class="icon-box">
                 <div class="icon"><i class="bi bi-easel"></i></div>
-                <h4 class="title"><a href="" class="stretched-link">Lorem Ipsum</a></h4>
+                <h4 class="title"><a href="" class="stretched-link">Program Mobile</a></h4>
               </div>
             </div><!--End Icon Box -->
 
             <div class="col-xl-3 col-md-6">
               <div class="icon-box">
                 <div class="icon"><i class="bi bi-gem"></i></div>
-                <h4 class="title"><a href="" class="stretched-link">Sed ut perspiciatis</a></h4>
+                <h4 class="title"><a href="" class="stretched-link">Program Web</a></h4>
               </div>
             </div><!--End Icon Box -->
 
             <div class="col-xl-3 col-md-6">
               <div class="icon-box">
                 <div class="icon"><i class="bi bi-geo-alt"></i></div>
-                <h4 class="title"><a href="" class="stretched-link">Magni Dolores</a></h4>
+                <h4 class="title"><a href="" class="stretched-link">Desain Grafis</a></h4>
               </div>
             </div><!--End Icon Box -->
 
             <div class="col-xl-3 col-md-6">
               <div class="icon-box">
                 <div class="icon"><i class="bi bi-command"></i></div>
-                <h4 class="title"><a href="" class="stretched-link">Nemo Enim</a></h4>
+                <h4 class="title"><a href="" class="stretched-link">Penelitian</a></h4>
               </div>
             </div><!--End Icon Box -->
 
