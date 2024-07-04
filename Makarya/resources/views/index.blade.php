@@ -115,7 +115,7 @@
             <p>Sistem Informasi ini menampung hampir semua karya mahasiswa yang dapat menjadi referensi bagi kalian, bahkan memungkinkan kalian untuk berkolaborasi dengan mereka.</p>
             <div class="d-flex">
               <a href="#about" class="btn-get-started">Daftar Sekarang</a>
-              <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+              <a href="https://www.youtube.com/watch?v=UO09ioNHjQY&ab_channel=ICIExpo" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
             </div>
           </div>
           <div class="col-lg-5 order-1 order-lg-2">
@@ -196,7 +196,7 @@
 
               <div class="position-relative mt-4">
                 <img src="assets/img/about-2.jpg" class="img-fluid rounded-4" alt="">
-                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox pulsating-play-btn"></a>
+                <a href="https://www.youtube.com/watch?v=UO09ioNHjQY&ab_channel=ICIExpo" class="glightbox pulsating-play-btn"></a>
               </div>
             </div>
           </div>
@@ -338,7 +338,7 @@
         <div class="content row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
           <div class="col-xl-10">
             <div class="text-center">
-              <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
+              <a href="https://www.youtube.com/watch?v=UO09ioNHjQY&ab_channel=ICIExpo" class="glightbox play-btn"></a>
               <h3>Tertarik Bergabung ?</h3>
               <p>Setelah melihat deskripsi singkat dan statistik pengunjung Makarya, kami harap Anda memperoleh pemahaman yang lebih baik tentang layanan ini dan tergerak untuk bergabung dengan kami dalam berbagi informasi dan berkolaborasi.</p>
               <a class="cta-btn" href="#">Gabung Sekarang</a>
