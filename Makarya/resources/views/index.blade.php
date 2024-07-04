@@ -490,7 +490,7 @@
               </div>
             </div><!-- End testimonial item --> --}}
 
-            {{-- {{-- <div class="swiper-slide">
+            {{-- <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
                 <h3>Sara Wilsson</h3>
@@ -506,7 +506,7 @@
               </div>
             </div><!-- End testimonial item --> --}}
 
-            <div class="swiper-slide">
+            {{-- <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
                 <h3>Jena Karlis</h3>
@@ -552,9 +552,9 @@
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
-            </div><!-- End testimonial item -->
+            </div><!-- End testimonial item --> --}}
 
-          </div>
+          {{-- </div>
           <div class="swiper-pagination"></div>
         </div>
 
