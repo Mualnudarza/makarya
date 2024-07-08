@@ -594,19 +594,7 @@
 
         <div class="row gy-4 justify-content-center">
 
-          {{-- <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="member">
-              <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
-              <h4>Walter White</h4>
-              <span>Web Development</span>
-              <div class="social">
-                <a href=""><i class="bi bi-twitter-x"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
-              </div>
-            </div>
-          </div><!-- End Team Member --> --}}
+        
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
@@ -732,8 +720,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Recent Blog Posts</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Postingan Blog Terbaru</h2>
+        <p>Berikut postingan blog terbaru dari teman-teman mahasiswa kita</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -747,18 +735,18 @@
                 <img src="assets/img/blog/blog-1.jpg" alt="" class="img-fluid">
               </div>
 
-              <p class="post-category">Politics</p>
+              <p class="post-category">Teknologi</p>
 
               <h2 class="title">
-                <a href="blog-details.html">Dolorum optio tempore voluptas dignissimos</a>
+                <a href="blog-details.html">Mengapa AI sangat berkembang pesat pada saat ini?</a>
               </h2>
 
               <div class="d-flex align-items-center">
                 <img src="assets/img/blog/blog-author.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
                 <div class="post-meta">
-                  <p class="post-author">Maria Doe</p>
+                  <p class="post-author">Max Verstappen</p>
                   <p class="post-date">
-                    <time datetime="2022-01-01">Jan 1, 2022</time>
+                    <time datetime="2022-01-01">23 Juli 2024</time>
                   </p>
                 </div>
               </div>
@@ -773,10 +761,10 @@
                 <img src="assets/img/blog/blog-2.jpg" alt="" class="img-fluid">
               </div>
 
-              <p class="post-category">Sports</p>
+              <p class="post-category">Olahraga</p>
 
               <h2 class="title">
-                <a href="blog-details.html">Nisi magni odit consequatur autem nulla dolorem</a>
+                <a href="blog-details.html">Kita harus lari atau jalan kaki setidaknya 1000 KM dalam hidup ini</a>
               </h2>
 
               <div class="d-flex align-items-center">
@@ -784,7 +772,7 @@
                 <div class="post-meta">
                   <p class="post-author">Allisa Mayer</p>
                   <p class="post-date">
-                    <time datetime="2022-01-01">Jun 5, 2022</time>
+                    <time datetime="2022-01-01">29 Juni 2024</time>
                   </p>
                 </div>
               </div>
@@ -799,10 +787,10 @@
                 <img src="assets/img/blog/blog-3.jpg" alt="" class="img-fluid">
               </div>
 
-              <p class="post-category">Entertainment</p>
+              <p class="post-category">Keluarga</p>
 
               <h2 class="title">
-                <a href="blog-details.html">Possimus soluta ut id suscipit ea ut in quo quia et soluta</a>
+                <a href="blog-details.html">Mengapa hidup jadi seorang korban broken home sangatlah sulit</a>
               </h2>
 
               <div class="d-flex align-items-center">
@@ -810,7 +798,7 @@
                 <div class="post-meta">
                   <p class="post-author">Mark Dower</p>
                   <p class="post-date">
-                    <time datetime="2022-01-01">Jun 22, 2022</time>
+                    <time datetime="2022-01-01">20 Juni 2024</time>
                   </p>
                 </div>
               </div>
@@ -824,7 +812,7 @@
 
     </section><!-- /Recent Posts Section -->
 
-    <!-- Contact Section -->
+    {{-- <!-- Contact Section -->
     <section id="contact" class="contact section">
 
       <!-- Section Title -->
@@ -911,7 +899,7 @@
 
       </div>
 
-    </section><!-- /Contact Section -->
+    </section><!-- /Contact Section --> --}}
 
   </main>
 
@@ -921,9 +909,9 @@
       <div class="row gy-4">
         <div class="col-lg-5 col-md-12 footer-about">
           <a href="{{ route('index') }}" class="logo d-flex align-items-center">
-            <span class="sitename">Impact</span>
+            <span class="sitename">Makarya</span>
           </a>
-          <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+          <p>Sistem Informasi ini menampung hampir semua karya mahasiswa yang dapat menjadi referensi bagi kalian, bahkan memungkinkan kalian untuk berkolaborasi dengan mereka.</p>
           <div class="social-links d-flex mt-4">
             <a href=""><i class="bi bi-twitter-x"></i></a>
             <a href=""><i class="bi bi-facebook"></i></a>
@@ -944,23 +932,24 @@
         </div>
 
         <div class="col-lg-2 col-6 footer-links">
-          <h4>Our Services</h4>
+          <h4>Layanan Kami</h4>
           <ul>
-            <li><a href="#">Web Design</a></li>
-            <li><a href="#">Web Development</a></li>
-            <li><a href="#">Product Management</a></li>
-            <li><a href="#">Marketing</a></li>
-            <li><a href="#">Graphic Design</a></li>
+            <li><a href="#">Pameran Karya</a></li>
+            <li><a href="#">Portofolio Mahasiswa</a></li>
+            <li><a href="#">Kolaborasi Karya</a></li>
+            <li><a href="#">Interaksi Pengguna</a></li>
+            <li><a href="#">Arsip Karya & Prestasi</a></li>
+            <li><a href="#">Forum Kegiatan</a></li>
           </ul>
         </div>
 
         <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-          <h4>Contact Us</h4>
-          <p>A108 Adam Street</p>
-          <p>New York, NY 535022</p>
-          <p>United States</p>
-          <p class="mt-4"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-          <p><strong>Email:</strong> <span>info@example.com</span></p>
+          <h4>Hubungi Kami</h4>
+          <p>l. Raya Tidar No.100.</p>
+          <p>Karangbesuki, Kec. Sukun, Kota Malang.</p>
+          <p>Jawa Timur</p>
+          <p class="mt-4"><strong>Phone:</strong> <span>+62 85806040891</span></p>
+          <p><strong>Email:</strong> <span>darwanzaalif@gmail.com</span></p>
         </div>
 
       </div>
