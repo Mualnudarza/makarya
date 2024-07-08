@@ -568,7 +568,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Portfolio</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Berikut berbagai karya mahasiswa yang kami kelola</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -577,10 +577,10 @@
 
           <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
             <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-app">App</li>
-            <li data-filter=".filter-product">Product</li>
-            <li data-filter=".filter-branding">Branding</li>
-            <li data-filter=".filter-books">Books</li>
+            <li data-filter=".filter-app">Program Mobile</li>
+            <li data-filter=".filter-product">Program Web</li>
+            <li data-filter=".filter-branding">Desain Grafis</li>
+            <li data-filter=".filter-books">Penelitian</li>
           </ul><!-- End Portfolio Filters -->
 
           <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
@@ -788,7 +788,7 @@
 
     </section><!-- /Team Section -->
 
-    <!-- Pricing Section -->
+    {{-- <!-- Pricing Section -->
     <section id="pricing" class="pricing section">
 
       <!-- Section Title -->
@@ -860,7 +860,7 @@
 
       </div>
 
-    </section><!-- /Pricing Section -->
+    </section><!-- /Pricing Section --> --}}
 
     <!-- Faq Section -->
     <section id="faq" class="faq section">
