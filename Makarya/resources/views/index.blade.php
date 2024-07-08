@@ -666,9 +666,9 @@
 
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
             <div class="content px-xl-5">
-              <h3><span>Frequently Asked </span><strong>Questions</strong></h3>
+              <h3><span>Pertanyaan yang Sering </span><strong>Diajukan</strong></h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                Berikut merupakan pertanyaan-pertanyaan yang sering muncul terkait dengan layanan ataupun mekanisme di platform ini
               </p>
             </div>
           </div>
@@ -677,41 +677,43 @@
 
             <div class="faq-container">
               <div class="faq-item faq-active">
-                <h3><span class="num">1.</span> <span>Non consectetur a erat nam at lectus urna duis?</span></h3>
+                <h3><span class="num">1.</span> <span>Bagaimana cara mendaftar dan membuat akun di sistem ini?</span></h3>
                 <div class="faq-content">
-                  <p>Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.</p>
+                  <p>Untuk mendaftar dan membuat akun di sistem ini, Anda perlu menghubungi admin untuk mendapatkan akses pendaftaran. Setelah itu, Anda dapat mengisi formulir pendaftaran dengan informasi yang diperlukan, seperti nama, NIM, dan alamat email. Setelah akun Anda diverifikasi oleh admin, Anda dapat mulai menggunakan sistem untuk mengunggah dan mengelola karya Anda.</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
               <div class="faq-item">
-                <h3><span class="num">2.</span> <span>Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?</span></h3>
+                <h3><span class="num">2.</span> <span>Bagaimana cara mengunggah karya ke sistem ini?
+
+                </span></h3>
                 <div class="faq-content">
-                  <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
+                  <p>Setelah login ke sistem, Anda bisa mengunggah karya dengan mengklik menu "Upload Karya". Isi informasi yang diperlukan seperti judul, deskripsi, kategori, dan file karya Anda. Setelah diunggah, karya Anda akan masuk ke dalam arsip dan menunggu validasi dari akademik sebelum dapat dilihat oleh publik.</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
               <div class="faq-item">
-                <h3><span class="num">3.</span> <span>Dolor sit amet consectetur adipiscing elit pellentesque?</span></h3>
+                <h3><span class="num">3.</span> <span>Bagaimana cara mencari dan melihat karya yang dipamerkan?</span></h3>
                 <div class="faq-content">
-                  <p>Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis</p>
+                  <p>Untuk mencari karya, gunakan fitur "Pencarian Karya" di menu utama. Anda dapat mencari berdasarkan judul, penulis, kategori, atau kata kunci lainnya. Setelah menemukan karya yang diinginkan, klik judul karya untuk melihat detail lengkapnya, termasuk deskripsi, file, dan komentar yang diberikan oleh pengguna lain.</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
               <div class="faq-item">
-                <h3><span class="num">4.</span> <span>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</span></h3>
+                <h3><span class="num">4.</span> <span>Bagaimana cara memberikan komentar atau masukan pada karya?</span></h3>
                 <div class="faq-content">
-                  <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
+                  <p>Untuk memberikan komentar atau masukan, buka halaman detail karya yang ingin Anda komentari. Di bagian bawah halaman, Anda akan menemukan form komentar. Tulis komentar atau masukan Anda dan klik tombol "Kirim". Komentar Anda akan langsung muncul di bawah karya tersebut, dan pemilik karya dapat melihat serta merespons komentar Anda.</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
               <div class="faq-item">
-                <h3><span class="num">5.</span> <span>Tempus quam pellentesque nec nam aliquam sem et tortor consequat?</span></h3>
+                <h3><span class="num">5.</span> <span>Bagaimana sistem ini menjaga keamanan dan privasi data karya mahasiswa?</span></h3>
                 <div class="faq-content">
-                  <p>Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in</p>
+                  <p>Sistem ini dilengkapi dengan fitur autentikasi yang membedakan akses tiap jenis pengguna, seperti mahasiswa, akademik, dan pihak eksternal. Karya hanya dapat dilihat oleh publik setelah divalidasi oleh akademik. Selain itu, sistem menggunakan protokol keamanan yang kuat untuk melindungi data dari akses yang tidak sah. Semua data yang diunggah dienkripsi dan hanya dapat diakses oleh pengguna yang memiliki izin.</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
