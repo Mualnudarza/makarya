@@ -1,16 +1,19 @@
 <?php
 
+use App\Http\Controllers\SesiController;
 use Illuminate\Support\Facades\Route;
 
-Route::view('/', 'welcome');
+// Route::view('/', 'welcome');
 
-Route::view('dashboard', 'dashboard')
-    ->middleware(['auth', 'verified'])
-    ->name('dashboard');
+// Route::view('dashboard', 'dashboard')
+//     ->middleware(['auth', 'verified'])
+//     ->name('dashboard');
 
-Route::view('profile', 'profile')
-    ->middleware(['auth'])
-    ->name('profile');
+// Route::view('profile', 'profile')
+//     ->middleware(['auth'])
+//     ->name('profile');
+
+Route::get('/',[SesiController::class,'index']);
 
 Route::get('/a', function(){
     return view('index');
@@ -20,4 +23,4 @@ Route::get('/blog', function () {
     return view('blog');
 })->name('blog');
 
-require __DIR__.'/auth.php';
+// require __DIR__.'/auth.php';
